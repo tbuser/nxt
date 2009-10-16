@@ -1,3 +1,5 @@
+This is basically ruby-nxt.  I'm simplifying things and moving it away from rubyforge.
+
 Low-level interface for communicating directly with the NXT via
 a Bluetooth serial port or USB.  Implements direct commands outlined in
 Appendix 2-LEGO MINDSTORMS NXT Direct Commands.pdf
