@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="83"
+   name=""
+   committed-date="2006-10-13T04:43:06.740479Z"
+   url="svn+ssh://gr0k@rubyforge.org/var/svn/ruby-nxt/trunk/ruby/test/interactive"
+   last-author="gr0k"
+   kind="dir"
+   uuid="a85beeab-be1c-0410-a5ed-88d17ee140f9"
+   repos="svn+ssh://gr0k@rubyforge.org/var/svn/ruby-nxt"
+   revision="100"/>
+<entry
+   committed-rev="67"
+   name="interactive_test_helper.rb"
+   text-time="2006-10-07T16:06:53.000000Z"
+   committed-date="2006-10-06T06:06:09.283925Z"
+   checksum="7b7aabd87c2d869529b052f0ae6fd3a6"
+   last-author="gunark"
+   kind="file"
+   prop-time="2006-10-07T16:06:53.000000Z"/>
+<entry
+   committed-rev="83"
+   name="test_sensors.rb"
+   text-time="2006-10-13T04:41:31.000000Z"
+   committed-date="2006-10-13T04:43:06.740479Z"
+   checksum="13ec94df266000120d41d2feea0eb4ad"
+   last-author="gr0k"
+   kind="file"
+   prop-time="2006-10-07T16:06:53.000000Z"/>
+</wc-entries>

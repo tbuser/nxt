@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="76"
+   name=""
+   committed-date="2006-10-10T04:55:17.564586Z"
+   url="svn+ssh://gr0k@rubyforge.org/var/svn/ruby-nxt/trunk/ruby/lib/commands/mixins"
+   last-author="gunark"
+   kind="dir"
+   uuid="a85beeab-be1c-0410-a5ed-88d17ee140f9"
+   repos="svn+ssh://gr0k@rubyforge.org/var/svn/ruby-nxt"
+   revision="100"/>
+<entry
+   committed-rev="76"
+   name="motor.rb"
+   text-time="2006-10-10T12:27:58.000000Z"
+   committed-date="2006-10-10T04:55:17.564586Z"
+   checksum="d06c11a1b23cbb9f9da33aac10d27414"
+   last-author="gunark"
+   kind="file"
+   prop-time="2006-10-10T12:27:58.000000Z"/>
+<entry
+   committed-rev="76"
+   name="sensor.rb"
+   text-time="2006-10-10T12:27:58.000000Z"
+   committed-date="2006-10-10T04:55:17.564586Z"
+   checksum="29f7f7526d6b10621d85ef9c4eb72397"
+   last-author="gunark"
+   kind="file"
+   prop-time="2006-10-10T12:27:58.000000Z"/>
+</wc-entries>
